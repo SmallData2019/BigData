@@ -1,3 +1,4 @@
 你是谁?
 test
 测试ssh
+再次测试ssh不输入yes
