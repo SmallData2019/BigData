@@ -3,3 +3,4 @@ test
 测试ssh
 再次测试ssh不输入yes
 我是slave分支添加的程序 
+我是slave2分支添加的程序
