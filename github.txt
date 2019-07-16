@@ -7,3 +7,4 @@ test
 使用master在第7行添加程序
 使用slave2在第8行添加程序
 使用slave在第8行添加程序
+使用slave分支在第10行添加程序
